@@ -14,6 +14,7 @@ import cody from "./images/cody.jpg";
 import gana from "./images/gana.jpg";
 import vini from "./images/vini.jpg";
 import dani from "./images/dani.jpg";
+import ode from "./images/ode.jpg";
 
 const players = [
   {
@@ -63,6 +64,14 @@ const players = [
     jerseyNumber: 5,
     age: 22,
     image: jude
+  },
+  {
+    name: "Odeguar",
+    team: "Arsenal",
+    nationality: "Norvegienne",
+    jerseyNumber: 8,
+    age: 30,
+    image: ode
   },
   {
     name: " Vinicius Jr",
